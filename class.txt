@@ -1,13 +1,13 @@
-Crimson
+Crimson stuff
 Orange
-Blue
-Cyan
-Yellow
-Charcoal
-Khaki
+Blue stuff
+Cyan stuff
+Yellow stuff
+Charcoal stuff
+Khaki stuff
 Coral
-Silver
+Silver stuff
 Fuchsia
-Purple
-Brown
+Purple stuff
+Brown stuff
 Red
